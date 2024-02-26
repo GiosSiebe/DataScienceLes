@@ -1,0 +1,1 @@
+print("Uw installatie is geslaagd")
